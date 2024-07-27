@@ -10,6 +10,7 @@ starRating.forEach((rating, index) => {
     rating.addEventListener("click", handleClickRating);
     // rating.addEventListener("mouseoverleave",handleLeave)
 })
+
 btn.addEventListener("click",resetRating)
 
 // function onMouseOverFunction(value) {
